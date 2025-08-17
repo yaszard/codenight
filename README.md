@@ -1,5 +1,5 @@
 # .github/workflows/python-ci.yml
-name: 🧪 Python CI Workflo
+name: 🧪 Python CI Workflow
 
 on:
   push:
