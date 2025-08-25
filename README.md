@@ -30,7 +30,7 @@ jobs:
         pip install flake8
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
 
-    - name: 🧪 Run tests with pytest
+    - name: 🧪 Run tests with pytes
       run: |
         pip install pytest
         pytest
